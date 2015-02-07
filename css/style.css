@@ -24,3 +24,9 @@
   vertical-align: 50%;
   padding: 20px
 }
+
+.btn-github {color:rgba(128, 30, 255, 0.89);}
+.btn-twitter {color:rgba(31, 107, 235, 0.62);}
+.btn-blog {color:black;}
+.btn-facebook {color:rgb(5, 47, 255);}
+.btn-email {color:rgb(138, 255, 20);}
